@@ -119,4 +119,23 @@ body {
     font-size: 20pt;
 }
 
+/* Showcase 2 */
+
+#showcase2 {
+    flex-wrap: wrap-reverse;  
+}
+
+#trackText {
+    padding: 70px;
+    text-align: center;
+}
+
+#track {
+    min-height: 400px;
+    background-image: url(https://cdn.pixabay.com/photo/2016/08/19/20/37/time-1606153_960_720.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
 
