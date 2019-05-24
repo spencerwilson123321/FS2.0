@@ -132,10 +132,16 @@ body {
 
 #track {
     min-height: 400px;
-    background-image: url(https://cdn.pixabay.com/photo/2016/08/19/20/37/time-1606153_960_720.png);
+    background-image: url(https://cdn.pixabay.com/photo/2017/05/15/23/48/survey-2316468_960_720.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
+}
+
+/* Showcase 3 */
+
+#showcase3 {
+    
 }
 
 
