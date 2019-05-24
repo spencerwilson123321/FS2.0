@@ -107,6 +107,7 @@ body {
 }
 
 #clockText {
+    padding: 70px;
     text-align: center;
 }
 
